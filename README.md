@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravhawk
 - 👀 I’m interested in: Game, app, and website development.
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, Neural Networks
 - 🌐 I just published: "Escape Room" (this is a github rep on my profile, you can check it out)
 - 💻 I'm currently working on: "Who Wants to Be a Millionaire"
 - 📫 How to reach me: aravhawk@gmail.com
