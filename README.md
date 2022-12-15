@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aravhawk
 - 👀 I’m interested in: Game, app, and website development.
-- 🌱 I’m currently learning: Python, Artificial Intelligence
+- 🌱 I’m currently learning: Python, Lua (ROBLOX)
 - 🌐 I just published: "Escape Room" (this is a github repo on my profile, you can check it out)
-- 💻 I'm currently working on: "Who Wants to Be a Billionaire"
+- 💻 I'm currently working on: "PyBot"
 - 📫 How to reach me: aravhawk@gmail.com
 
 <!---
