@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aravhawk
-- 👀 I’m interested in: Game, app, and website development.
+- 👋 Hi, I’m Arav Jain
+- 👀 I’m interested in: Artificial Intelligence, Machine Learning, and Generative AI.
 - 🌱 I’m currently learning: Python, Lua (ROBLOX)
-- 🌐 I just published: "Who Wants To Be A Billionaire" (this is a github repo on my profile, you can check it out)
-- 💻 I'm currently working on: "PyBot"
+- 🌐 I recently published: "IntergalacticPro" (contact me for a "free research preview" or let me know if you like to join the paid plan)
+- 💻 I'm currently working on: "IntergalacticPro"
 - 📫 How to reach me: aravhawk@gmail.com
 
 <!---
