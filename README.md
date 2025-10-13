@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Arav Jain
-- 👀 Interests: Artificial Intelligence, Machine Learning, Generative AI, Blockchain
-- 🌱 Currently learning: Machine Learning / Deep Learning with PyTorch, Swift Development for Apple Platforms
-- 🌐 I recently published: v3.1.9 of "IntergalacticPro" - A space-focused AI chatbot (now open-source)
-- 💻 Currently working on: "Tensorcoin" - "The Fastest Blockchain, Powered by GPUs" - [Website](https://tensorcoin.org) - [See inside](https://github.com/TensorcoinCrypto/TensorPoW)
-- 👨‍🔬 Free research previews available upon request: Infiniflop API
-- 📫 Get in touch: aravhawk@gmail.com (Personal), arav@infiniflop.com (Work)
+Founder and CEO of [Infiniflop](https://infiniflop.com), the best place for AI compute
 
-<!---
-aravhawk/aravhawk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love to build AI and blockchain stuff, as well as dev tools
+
+Checkout my [Twitter](https://x.com/aravhawk), [website](https://aravjain.dev), or [LinkedIn](https://linkedin.com/in/aravjainml).
