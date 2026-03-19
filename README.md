@@ -1,4 +1,4 @@
-Co-Founder @ [Infiniflop](https://infiniflop.com), the best place for AI compute
+Co-Founder @ [Infiniflop](https://infiniflop.com), building AI app review agents
 
 I love to build AI and blockchain stuff, as well as dev tools
 
