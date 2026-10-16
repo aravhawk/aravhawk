@@ -1,4 +1,4 @@
-Co-Founder @ [Infiniflop](https://infiniflop.com), building AI app review agents
+Co-Founder @ [Infiniflop](https://infiniflop.com) Labs, building AI app review agents
 
 I love to build dev tools and AI agents, along with some blockchain stuff.
 
